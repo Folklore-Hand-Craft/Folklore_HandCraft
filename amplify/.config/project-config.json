@@ -1,13 +1,13 @@
 {
-  "projectName": "Folklore_HandCraft",
-  "version": "2.0",
+  "projectName": "FolkloreHandCraft",
+  "version": "3.1",
   "frontend": "android",
-  "providers": [
-    "awscloudformation"
-  ],
   "android": {
     "config": {
       "ResDir": "app/src/main/res"
     }
-  }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
 }
