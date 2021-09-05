@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Folklore_HandCraft</string>
+    <string name="Name">TextView</string>
+    <string name="productname">Product Name</string>
+    <string name="product_description">Product Description</string>
+    <string name="price">Price</string>
+    <string name="contact">Contact</string>
+    <string name="add_product">Add Product</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
 </resources>
